@@ -1,0 +1,15 @@
+
+R 640 400
+NO ./textures/grey.xpm
+SO ./textures/blue.xpm
+WE ./textures/floor.xpm
+EA ./textures/brick.xpm
+S ./textures/barrel.xpm
+
+F 224,172,105
+C 205,249,225
+
+11111
+10001
+100N1
+11111
